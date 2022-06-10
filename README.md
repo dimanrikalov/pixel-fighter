@@ -1,2 +1,2 @@
 # pixel-fighter
- A pixel art fighting game made by watching a tutorial
+ A pixel art fighting game made using HTML Canvas.
